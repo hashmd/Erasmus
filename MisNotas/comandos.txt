@@ -1,0 +1,8 @@
+comandos que necsito
+
+sudo docker-compose up  //conectarte a la BD
+sudo docker-compose down  //desconectarte de la BD
+
+npm run migrate  // 
+
+
