@@ -1,12 +1,12 @@
 module.exports= {
-    user: 'user',
-    tutor: 'tutor',
-    alumno: 'alumno',
+    usuario: 'usuario',
     pais: 'pais',
     ciudad: 'ciudad',
     universidad: 'universidad',
-    asignatura_esp: 'asig_esp',
-    asignat_extranj: 'asig_extranj',
-    notas: 'notas'
-
+    facultad: 'facultad',
+    asignatura: 'asignatura', 
+    equivalenciaDeAsignatura: 'equivalenciaDeAsignatura',   
+    nota: 'nota',
+    matricula: 'matricula',
+    equivalenciaNotas: 'equivalenciaNotas'
 }
